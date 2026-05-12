@@ -3,6 +3,7 @@ import { AppContext } from '../context/AppContext'
 import axios from 'axios'
 import { toast } from 'react-toastify'
 import { useNavigate } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom'
 
 const Login = () => {
 
